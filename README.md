@@ -30,12 +30,6 @@
 <!-- YOUTUBE:END -->
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Sandeep's Github Stats" src="https://github-readme-stats.sand47.vercel.app/api?username=sand47&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]:https://twitter.com/sandeep_kumaram?s=08
 [youtube]: https://www.youtube.com/channel/UCl4Zd-q8-PcGPRvydGSEHkQ/featured?view_as=subscriber
