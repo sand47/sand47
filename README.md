@@ -29,7 +29,8 @@
 - [Data Preprocessing in Machine learning and Deep Learning](https://www.youtube.com/watch?v=BMs1jB0R2tw)
 <!-- YOUTUBE:END -->
 
-
+---
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.sand47.vercel.app/api?username=sand47&show_icons=true&hide_border=true" />
 
 [twitter]:https://twitter.com/sandeep_kumaram?s=08
 [youtube]: https://www.youtube.com/channel/UCl4Zd-q8-PcGPRvydGSEHkQ/featured?view_as=subscriber
