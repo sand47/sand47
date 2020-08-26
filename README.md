@@ -45,7 +45,6 @@
 <br />
 <br />
 
----
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -54,7 +53,6 @@
 - [Python Tutorial Series](https://www.youtube.com/watch?v=lQwuDa4khOs&list=PL_foca7ISNHx2QDRCwIzClaUR3nenlpy6&index=2)
 
 <!-- YOUTUBE:END -->
----
 
 
 <img align="left" alt="Sandeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sand47&show_icons=true&hide_border=true&count_private=true" />
