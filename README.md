@@ -30,7 +30,7 @@
 <!-- YOUTUBE:END -->
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sand47&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sand47&show_icons=true&hide_border=true&theme=dark" />
 
 [twitter]:https://twitter.com/sandeep_kumaram?s=08
 [youtube]: https://www.youtube.com/channel/UCl4Zd-q8-PcGPRvydGSEHkQ/featured?view_as=subscriber
