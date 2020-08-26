@@ -29,7 +29,7 @@
 - [Data Preprocessing in Machine learning and Deep Learning](https://www.youtube.com/watch?v=BMs1jB0R2tw)
 <!-- YOUTUBE:END -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sand47&layout=compact)](https://github.com/sand47/github-readme-stats)
+
 ---
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sand47&show_icons=true&hide_border=true&count_private=true" />
 ---
