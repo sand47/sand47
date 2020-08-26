@@ -33,7 +33,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Sandeep's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sandeep's Github Stats" src="https://github-readme-stats.sand47.vercel.app/api?username=sand47&show_icons=true&hide_border=true" />
 
 </details>
 
