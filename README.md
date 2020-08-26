@@ -5,7 +5,7 @@
 
 ## I'm a Machine Learning Engineer, Freelancer and a Mentor! 
 
-- 🔭 I’m currently working on my research project based on GAN and looking full-time position starting from December 2020!
+- 🔭 I’m currently working on my research project designing novel GAN for gaming and looking for full-time position starting from December 2020!
 - 🌱 I’m currently learning about designing interpretable & fair deep learning model. 
 - 👯 I’m looking to collaborate with other engineers to solve real-world problem using machine learning.
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -19,19 +19,7 @@
 [<img align="left" alt="sand47 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sand47 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://images.app.goo.gl/57pwNNn796D4X3MD8" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<br />
-<br />
 
 ### 📺 Latest YouTube Videos
 
