@@ -5,7 +5,7 @@
 
 ## I'm a Machine Learning Engineer, Freelancer and a Mentor! 
 
-- 🔭 I’m currently working on my research project on interpretable model for audio system and looking for full-time position starting from December 2020!
+- 🔭 I’m currently working on my research project focused on GANs application and looking for full-time position starting from December 2020!
 - 🌱 I’m currently learning about designing interpretable & fair deep learning model. 
 - 👯 I’m looking to collaborate with other engineers to participate in online machine learning. hackathons. 
 - 🥅 2020 Goals: Contribute more to Open Source projects
