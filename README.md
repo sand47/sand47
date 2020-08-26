@@ -5,7 +5,7 @@
 ## I'm a Machine Learning Engineer, Freelancer and a Mentor! 
 
 - 🔭 I’m currently working on my research project based on GAN and looking full-time position starting from December 2020!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning about designing interpretable & fair deep learning model. 
 - 👯 I’m looking to collaborate with other engineers to solve real-world problem using machine learning.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and play violin.
