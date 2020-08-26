@@ -21,6 +21,15 @@
 
 <br />
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Beginners Guide to Machine learning](https://www.youtube.com/watch?v=AsJejghb3HA)
+- [Data Preprocessing in Machine learning and Deep Learning](https://www.youtube.com/watch?v=BMs1jB0R2tw)
+- [Python Tutorial Series](https://www.youtube.com/watch?v=lQwuDa4khOs&list=PL_foca7ISNHx2QDRCwIzClaUR3nenlpy6&index=2)
+
+<!-- YOUTUBE:END -->
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -44,17 +53,8 @@
 
 <br />
 <br />
-<br />
-<br />
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [Beginners Guide to Machine learning](https://www.youtube.com/watch?v=AsJejghb3HA)
-- [Data Preprocessing in Machine learning and Deep Learning](https://www.youtube.com/watch?v=BMs1jB0R2tw)
-- [Python Tutorial Series](https://www.youtube.com/watch?v=lQwuDa4khOs&list=PL_foca7ISNHx2QDRCwIzClaUR3nenlpy6&index=2)
-
-<!-- YOUTUBE:END -->
 
 
 <img align="left" alt="Sandeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sand47&show_icons=true&hide_border=true&count_private=true" />
