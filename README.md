@@ -1,6 +1,7 @@
 ### Hi there, I'm Sandeep Kumar  👋
 
-[![linkedin](https://img.shields.io/linkedin/follow/Sandeep?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sandeepkumaramani/)
+[![linkedin](https://img.shields.io/website?label=Sandeep_LinkedIn&style=for-the-badge&&logo=twitter)](https://www.linkedin.com/in/sandeepkumaramani/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sandeep?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sandeep_kumaram?s=08)
 
 ## I'm a Machine Learning Engineer, Freelancer and a Mentor! 
