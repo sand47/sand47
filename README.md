@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my research project designing novel GAN for gaming and looking for full-time position starting from December 2020!
 - 🌱 I’m currently learning about designing interpretable & fair deep learning model. 
-- 👯 I’m looking to collaborate with other engineers to solve real-world problem using machine learning.
+- 👯 I’m looking to collaborate with other engineers to participate in online machine learning. hackathons. 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and play violin.
 
