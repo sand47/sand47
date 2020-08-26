@@ -1,6 +1,5 @@
 ### Hi there, I'm Sandeep Kumar  👋
 
-[![LinkedIn]()](https://www.linkedin.com/in/sandeepkumaramani/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sandeep?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sandeep_kumaram?s=08)
 
 ## I'm a Engineer!
