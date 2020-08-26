@@ -30,8 +30,9 @@
 <!-- YOUTUBE:END -->
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sand47&show_icons=true&hide_border=true" />
-
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sand47&show_icons=true&hide_border=true&count_private=true" />
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sand47&layout=compact)](https://github.com/sand47/github-readme-stats)
 [twitter]:https://twitter.com/sandeep_kumaram?s=08
 [youtube]: https://www.youtube.com/channel/UCl4Zd-q8-PcGPRvydGSEHkQ/featured?view_as=subscriber
 [instagram]: https://www.instagram.com/_ssndeep/
