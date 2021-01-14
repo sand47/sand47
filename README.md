@@ -5,9 +5,8 @@
 
 ## I'm a Machine Learning Engineer, Freelancer and a Mentor! 
 
-- 🔭 I'm currently focusing on JavaScript and Node.js for application developement. 
+- 🔭 I'm currently focusing on explainable AI & performance optimizing on GPU. 
 - 🌱 Also learning about designing interpretable & fair deep learning model. 
-- 👯 I’m looking to collaborate with other engineers to participate in online machine learning hackathons. 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and play violin.
 
