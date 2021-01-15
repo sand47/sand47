@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/website?label=Sandeep&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/sandeepkumaramani/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sandeep?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sandeep_kumaram?s=08)
 
-## I'm a Machine Learning Engineer, Freelancer and a Mentor! 
+## I'm a AI & Electronics Enthusiast! 
 
 - 🔭 I'm currently focusing on explainable AI & performance optimizing on GPU. 
 - 🌱 Also learning about designing interpretable & fair deep learning model. 
