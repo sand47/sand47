@@ -5,7 +5,7 @@
 
 ## I'm a AI & Electronics Enthusiast! 
 
-- 🔭 I'm currently focusing on explainable AI & performance optimizing on GPU. 
+- 🔭 I'm currently focusing on building power efficient ML models for various applications. 
 - 🌱 Also learning about designing interpretable & fair deep learning model. 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and play violin.
