@@ -5,12 +5,6 @@
 
 ## I'm a AI & Electronics Enthusiast! 
 
-- 🔭 I'm currently focusing on building power efficient ML models for various applications. 
-- 🌱 Also learning about designing interpretable & fair deep learning model. 
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to dance and play violin.
-
-
 ### Connect with me:
 
 [<img align="left" alt="sand47 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
